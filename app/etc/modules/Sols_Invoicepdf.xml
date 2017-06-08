@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   Sols
+ * @package    Sols_Invoicepdf
+ */
+ -->
+<config>
+    <modules>
+        <Sols_Invoicepdf>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Sols_Invoicepdf>
+    </modules>
+</config> 
